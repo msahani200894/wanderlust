@@ -35,6 +35,7 @@ _I'd love for you to make the most of this project - it's all about learning, he
 3. **Install Required Dependencies**
 
    ```bash
+    install npm
    npm i
    ```
 
